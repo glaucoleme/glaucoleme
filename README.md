@@ -1,4 +1,7 @@
-### Hi there, I'm Glauco! 👋
+### Hi there 👋
+
+I'm Glauco. I'm a software developer that love to discover new features and to share knowledge.
+
 - 🌱 I’m currently learning:
   -  Golang best practises
   -  Design patterns
