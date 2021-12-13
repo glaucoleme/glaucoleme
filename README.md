@@ -32,7 +32,7 @@ Software developer at [Vallourec](https://www.vallourec.com).
 Committed to discover new features and to share knowledge.
 
 - 🌱 I’m currently learning:
-  -  Golang best practises
+  -  DevOps
   -  Design patterns
 - 👯 I’m looking to collaborate on Educational projects or any creative idea! =]
 
