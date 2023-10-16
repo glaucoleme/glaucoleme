@@ -27,13 +27,13 @@
 </div>
 
 ## I'm Glauco
-Software developer at [Vallourec](https://www.vallourec.com).
+Software developer since 2015.
 
 Committed to discover new features and to share knowledge.
 
 - 🌱 I’m currently learning:
-  -  DevOps
-  -  Design patterns
+  -  Vector databases
+  -  Design patterns at Cloud
 - 👯 I’m looking to collaborate on Educational projects or any creative idea! =]
 
 <!-- ![Metrics](https://raw.githubusercontent.com/glaucoleme/glaucoleme/main/github-metrics.svg)
