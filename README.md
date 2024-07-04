@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/lemeglauco">
     <img
       src="https://i.stack.imgur.com/gVE0j.png"
-      alt="LinkedIn"
     />
     LinkedIn
   </a>
@@ -12,7 +11,6 @@
     <img
       width="18"
       src="https://i.imgur.com/4lw0nf1.png"
-      alt="Mail"
     />
     Email
   </a>
