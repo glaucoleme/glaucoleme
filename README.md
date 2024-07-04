@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/lemeglauco">
     <img
-      src="https://i.stack.imgur.com/gVE0j.png"
+      src="https://i.sstatic.net/gVE0j.png"
     />
     LinkedIn
   </a>
