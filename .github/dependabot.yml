@@ -1,10 +1,7 @@
 # Configurar calendário de atualização para GitHub Actions
-
 version: 2
 updates:
-
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      # Verificar atualizações do GitHub Actions todos os dias de semana
-      interval: "daily"
+      interval: "0 0 * * FRI"
