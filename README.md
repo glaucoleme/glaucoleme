@@ -14,12 +14,12 @@
     Email
   </a>
 
-  <a href="https://api.daily.dev/get?r=glaucoleme" target="_blank">
-    <img
+  <a href="https://daily.dev/glaucoleme">
+    <img 
+      src="https://api.daily.dev/devcards/v2/LQwKN3TVc.png?type=default&r=8in" 
       width="250"
       align="right"
-      src="https://github.com/glaucoleme/glaucoleme/blob/main/devcard.svg"
-    />
+      alt="Glauco Leme's Dev Card"/>
   </a>
 </div>
 
