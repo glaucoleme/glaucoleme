@@ -2,11 +2,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lemeglauco">
-    <img
-      src="https://i.sstatic.net/gVE0j.png"
-    />
+    <img src="https://i.sstatic.net/gVE0j.png" />
     LinkedIn
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:glaucooleme@gmail.com">
     <img
       width="18"
@@ -24,30 +23,40 @@
   </a>
 </div>
 
-## I'm Glauco
-Software developer since 2015.
+---
 
-Committed to discover new features and to share knowledge.
+## About
 
-- 🌱 I’m currently learning:
-  -  Vector databases
-  -  Design patterns at Cloud
-- 👯 I’m looking to collaborate on Educational projects or any creative idea! =]
+Senior Backend Software Engineer focused on building scalable, cloud-native applications.
 
-<!-- ![Metrics](https://raw.githubusercontent.com/glaucoleme/glaucoleme/main/github-metrics.svg)
+I enjoy designing clean architectures, distributed systems, and developer-friendly tooling. Most of my work revolves around backend development, AWS, and modern DevOps practices.
 
+### 🛠️ Main Technologies
 
+- **Languages:** .Net, Node.js (TypeScript), Python
+- **Cloud:** AWS (Lambda, API Gateway, DynamoDB, S3, EventBridge, Cognito)
+- **Databases:** DynamoDB, PostgreSQL, Redis
+- **Architecture:** Distributed Systems, Event-Driven Architecture, Domain-Driven Design
 
-**glaucoleme/glaucoleme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently Exploring
 
-Here are some ideas to get you started:
+- AWS Solutions Architect Certification
+- AI-assisted development
+- Software architecture
+- Cloud design patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[aws-serverless-starter](https://github.com/glaucoleme/aws-serverless-starter)** | Opinionated AWS Serverless boilerplate using TypeScript, Serverless Framework v4, Vitest, Biome, Docker, and GitHub Actions. |
+<!--| **[django-production-boilerplate](https://github.com/glaucoleme/django-production-boilerplate)** | Production-ready Django backend with Docker, PostgreSQL, authentication, testing, and CI/CD. | -->
+<!--| **[backend-toolkit](https://github.com/glaucoleme/backend-toolkit)** | Collection of reusable backend utilities, patterns, and examples for modern backend development. | -->
+
+### 🤝 Collaboration
+
+I'm always interested in collaborating on open-source projects related to backend engineering, cloud infrastructure, and developer experience.
+
+---
+
+> *"The most creative people are motivated by the grandest of problems that are presented before them." Neil deGrasse Tyson* 
