@@ -49,7 +49,7 @@ I enjoy designing clean architectures, distributed systems, and developer-friend
 
 | Project | Description |
 |---------|-------------|
-| **[aws-serverless-starter](https://github.com/glaucoleme/aws-serverless-starter)** | Opinionated AWS Serverless boilerplate using TypeScript, Serverless Framework v4, Vitest, Biome, Docker, and GitHub Actions. |
+| **[aws-serverless-starter](https://github.com/glaucoleme/aws-serverless-starter)** | Serverless Framework boilerplate with best practices for Node.js/TypeScript usage in new projects. |
 <!--| **[django-production-boilerplate](https://github.com/glaucoleme/django-production-boilerplate)** | Production-ready Django backend with Docker, PostgreSQL, authentication, testing, and CI/CD. | -->
 <!--| **[backend-toolkit](https://github.com/glaucoleme/backend-toolkit)** | Collection of reusable backend utilities, patterns, and examples for modern backend development. | -->
 
