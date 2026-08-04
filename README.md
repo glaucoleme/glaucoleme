@@ -16,7 +16,7 @@
 
   <a href="https://daily.dev/glaucoleme">
     <img 
-      src="https://api.daily.dev/devcards/v2/LQwKN3TVc.png?type=default&r=8in" 
+      src="devcard.png" 
       width="250"
       align="right"
       alt="Glauco Leme's Dev Card"/>
