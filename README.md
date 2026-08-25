@@ -2,7 +2,9 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lemeglauco">
-    <img src="https://i.sstatic.net/gVE0j.png" />
+    <img 
+      width="18"
+      src="https://img.icons8.com/?size=512&id=13930&format=png" />
     LinkedIn
   </a>
   &nbsp;&nbsp;
