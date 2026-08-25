@@ -51,9 +51,9 @@ I enjoy designing clean architectures, distributed systems, and developer-friend
 
 | Project | Description |
 |---------|-------------|
-| **[aws-serverless-starter](https://github.com/glaucoleme/aws-serverless-starter)** | Serverless Framework boilerplate with best practices for Node.js/TypeScript usage in new projects. |
+| **[aws-serverless-reference](https://github.com/glaucoleme/aws-serverless-reference)** | Serverless Framework boilerplate with best practices for Node.js/TypeScript usage in new projects. |
 | **[dotnet-enterprise-reference](https://github.com/glaucoleme/dotnet-enterprise-reference)** | A production-ready reference architecture showcasing modern enterprise backend development using .NET 10 and ASP.NET Core. |
-<!--| **[django-production-boilerplate](https://github.com/glaucoleme/django-production-boilerplate)** | Production-ready Django backend with Docker, PostgreSQL, authentication, testing, and CI/CD. | -->
+| **[django-production-boilerplate](https://github.com/glaucoleme/django-production-boilerplate)** | Production-ready Django backend with Docker, PostgreSQL, Redis, queue, testing, and CI/CD. |
 
 ### 🤝 Collaboration
 
